@@ -5,7 +5,7 @@ numStr, ch, heartStr = "", "", ""
 print("Start")
 
 # 메인 코드#
-if __name__ == "__main__":
+if __name__ == "__main__": #이 프로그램의 메인
     numStr = input("숫자를 여러 개 입력하세요 : ")
     print("")
     i = 0
